@@ -1,0 +1,15 @@
+.title {
+  @apply pt-10 text-center text-4xl font-bold italic underline;
+}
+
+.column {
+  @apply flex h-52 items-center border-4 bg-white  p-4 text-center lg:h-44;
+}
+
+.row-title {
+  @apply text-center text-2xl;
+}
+
+.row-text {
+  @apply text-center;
+}
